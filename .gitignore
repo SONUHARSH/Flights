@@ -2,5 +2,3 @@ node_modules/
 .env
 combined.log
 src/config/config.json
-src/migrations/20230522152750-create-booking.js
-src/models/booking.js
